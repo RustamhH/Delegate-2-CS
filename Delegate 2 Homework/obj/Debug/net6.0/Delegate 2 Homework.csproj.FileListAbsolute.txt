@@ -1,0 +1,15 @@
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\bin\Debug\net6.0\Delegate 2 Homework.exe
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\bin\Debug\net6.0\Delegate 2 Homework.deps.json
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\bin\Debug\net6.0\Delegate 2 Homework.runtimeconfig.json
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\bin\Debug\net6.0\Delegate 2 Homework.dll
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\bin\Debug\net6.0\Delegate 2 Homework.pdb
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\obj\Debug\net6.0\Delegate 2 Homework.csproj.AssemblyReference.cache
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\obj\Debug\net6.0\Delegate 2 Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\obj\Debug\net6.0\Delegate 2 Homework.AssemblyInfoInputs.cache
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\obj\Debug\net6.0\Delegate 2 Homework.AssemblyInfo.cs
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\obj\Debug\net6.0\Delegate 2 Homework.csproj.CoreCompileInputs.cache
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\obj\Debug\net6.0\Delegate 2 Homework.dll
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\obj\Debug\net6.0\refint\Delegate 2 Homework.dll
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\obj\Debug\net6.0\Delegate 2 Homework.pdb
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\obj\Debug\net6.0\Delegate 2 Homework.genruntimeconfig.cache
+D:\c#\Delegate 2 Homework\Delegate 2 Homework\obj\Debug\net6.0\ref\Delegate 2 Homework.dll
